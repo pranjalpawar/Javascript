@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+    background-color: lightgreen;
+    width: 200px;
+    height: 200px;
+}
+
+p{
+    color:lawngreen;
+   
+}
+
+.cla {
+    color:blueviolet;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+#new {
+    color: coral;
+    background-color: black;
+}
